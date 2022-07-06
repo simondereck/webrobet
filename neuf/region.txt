@@ -1,0 +1,12 @@
+/trouver-son-logement-neuf/auvergne-rhone-alpes
+/trouver-son-logement-neuf/bourgogne-franche-comte
+/trouver-son-logement-neuf/bretagne
+/trouver-son-logement-neuf/centre-val-de-loire
+/trouver-son-logement-neuf/grand-est
+/trouver-son-logement-neuf/hauts-de-france
+/trouver-son-logement-neuf/ile-de-france
+/trouver-son-logement-neuf/nouvelle-aquitaine
+/trouver-son-logement-neuf/normandie
+/trouver-son-logement-neuf/occitanie
+/trouver-son-logement-neuf/pays-de-la-loire
+/trouver-son-logement-neuf/sud-provence-alpes-cote-dazur

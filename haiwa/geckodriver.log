@@ -1,0 +1,111 @@
+1646741894980	geckodriver	INFO	Listening on 127.0.0.1:51178
+1646741895850	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/57/5vzvdk5n6sv4087tgtx2_8nw0000gn/T/rust_mozprofileUIh5c6"
+1646741898247	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/57/5vzvdk5n6sv4087tgtx2_8nw0000gn/T/rust_mozprofileUIh5c6/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1646741902074	Marionette	INFO	Listening on port 51189
+1646741902258	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d2t77mnxyo7adj.cloudfront.net/v1/c.js?835429284522536, line 31: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+2022-03-08 13:21:05.154 firefox-bin[3860:83653] =>> Checked Property: [cfen] 1667655022
+2022-03-08 13:21:05.154 firefox-bin[3860:83653] =>> Checked Property: [cfen] 1667655022
+2022-03-08 13:21:05.155 firefox-bin[3860:83653] =>> Checked Property: [cfen] 1667655022
+2022-03-08 13:21:05.155 firefox-bin[3860:83653] =>> Checked Property: [cfac] 1667653987
+JavaScript error: https://www.amiparis.com/static/ami/build/js/main.08c6b9a822e8d254033f.js, line 18: Error: Network Error
+1646742217384	geckodriver	INFO	Listening on 127.0.0.1:51455
+1646742218411	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/57/5vzvdk5n6sv4087tgtx2_8nw0000gn/T/rust_mozprofileZNQAhM"
+1646742219458	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/57/5vzvdk5n6sv4087tgtx2_8nw0000gn/T/rust_mozprofileZNQAhM/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1646742223093	Marionette	INFO	Listening on port 51466
+1646742223212	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1646742226291	Marionette	INFO	Stopped listening on port 51189
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+JavaScript warning: https://d2t77mnxyo7adj.cloudfront.net/v1/c.js?835429284522536, line 31: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.amiparis.com/static/ami/build/js/main.08c6b9a822e8d254033f.js, line 18: Error: Unknown error
+JavaScript error: , line 0: uncaught exception: Object
+2022-03-08 13:24:45.691 firefox-bin[3981:88124] =>> Checked Property: [cfen] 1667655022
+2022-03-08 13:24:45.691 firefox-bin[3981:88124] =>> Checked Property: [cfen] 1667655022
+2022-03-08 13:24:45.691 firefox-bin[3981:88124] =>> Checked Property: [cfen] 1667655022
+2022-03-08 13:24:45.691 firefox-bin[3981:88124] =>> Checked Property: [cfac] 1667653987
+JavaScript error: https://www.cloudflare.com/compiledNav/navigation.js, line 14: ReferenceError: require is not defined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1646742534587	Marionette	INFO	Stopped listening on port 51466
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1646742550154	geckodriver	INFO	Listening on 127.0.0.1:51691
+1646742551164	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/57/5vzvdk5n6sv4087tgtx2_8nw0000gn/T/rust_mozprofileXfxhLi"
+1646742552256	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/57/5vzvdk5n6sv4087tgtx2_8nw0000gn/T/rust_mozprofileXfxhLi/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1646742556975	Marionette	INFO	Listening on port 51698
+1646742557074	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d2t77mnxyo7adj.cloudfront.net/v1/c.js?835429284522536, line 31: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.amiparis.com/static/ami/build/js/main.08c6b9a822e8d254033f.js, line 18: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+2022-03-08 13:29:27.569 firefox-bin[4103:91152] =>> Checked Property: [cfen] 1667655022
+2022-03-08 13:29:27.569 firefox-bin[4103:91152] =>> Checked Property: [cfen] 1667655022
+2022-03-08 13:29:27.569 firefox-bin[4103:91152] =>> Checked Property: [cfen] 1667655022
+2022-03-08 13:29:27.570 firefox-bin[4103:91152] =>> Checked Property: [cfac] 1667653987
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 335))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: _createTargetActor/<@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:335:12
+newListener@resource://devtools/shared/event-emitter.js:173:27
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+destroy@resource://devtools/server/actors/targets/window-global.js:733:10
+module.exports/proto.destroy@resource://devtools/server/actors/targets/target-actor-mixin.js:242:30
+instantiate@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:242:26
+handleEvent@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:650:12
+
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 335))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: _createTargetActor/<@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:335:12
+newListener@resource://devtools/shared/event-emitter.js:173:27
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+destroy@resource://devtools/server/actors/targets/window-global.js:733:10
+module.exports/proto.destroy@resource://devtools/server/actors/targets/target-actor-mixin.js:242:30
+instantiate@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:242:26
+handleEvent@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:650:12
+
+console.warn: "Error while destroying front:" "inspector" (new Error("Connection closed, pending request to server0.conn0.windowGlobal2147483669/inspectorActor4, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\n_getWalker@resource://devtools/client/fronts/inspector.js:90:30\ninitialize@resource://devtools/client/fronts/inspector.js:79:12\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: "Failed to start [root-node] legacy listener for target null" (new Error("Connection closed, pending request to server0.conn0.windowGlobal2147483669/inspectorActor4, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\n_getWalker@resource://devtools/client/fronts/inspector.js:90:30\ninitialize@resource://devtools/client/fronts/inspector.js:79:12\n", "resource://devtools/shared/protocol/Front.js", 106))
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 106: Error: Connection closed, pending request to server0.conn0.windowGlobal2147483669/inspectorActor4, type getWalker failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:292:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19
+_getWalker@resource://devtools/client/fronts/inspector.js:90:30
+initialize@resource://devtools/client/fronts/inspector.js:79:12
+
+JavaScript warning: https://d2t77mnxyo7adj.cloudfront.net/v1/c.js?835429284522536, line 31: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.amiparis.com/static/ami/build/js/main.08c6b9a822e8d254033f.js, line 18: Error: Unknown error
+JavaScript warning: https://0c0275c12bca.cdn4.forter.com/sn/0c0275c12bca/script.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://beacon.riskified.com/?shop=farfetch.com&sid=64f72c6b-875a-4817-8d4d-64ec6309cb88, line 7: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://beacon.riskified.com/?shop=farfetch.com&sid=64f72c6b-875a-4817-8d4d-64ec6309cb88, line 7: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://beacon.riskified.com/?shop=farfetch.com&sid=64f72c6b-875a-4817-8d4d-64ec6309cb88, line 7: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://beacon.riskified.com/?shop=farfetch.com&sid=64f72c6b-875a-4817-8d4d-64ec6309cb88, line 7: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1647017770413	Marionette	INFO	Stopped listening on port 51698
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
